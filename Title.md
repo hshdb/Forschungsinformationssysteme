@@ -7,7 +7,7 @@ Welche deutschen Hochschulen betreiben seit wann und in welcher Form ein Forschu
 
 **Einleitung:**
 
-Forschungsinformationssysteme oder kurz FIS sollen dabei helfen eine strukturierte Übersicht über die Forschungsaktivitäten einer Forschungseirichtung zu erhalten. Dabei werden die Informationen in einer Datenbank abgelegt und "somit ein fortlaufend aktualisiertes, umfassendes Verzeichnis geschaffen.“ [@wikipedia]
+Forschungsinformationssysteme oder kurz FIS sollen dabei helfen, eine strukturierte Übersicht über die Forschungsaktivitäten einer Forschungseirichtung zu erhalten. Dabei werden die Informationen in einer Datenbank abgelegt und "somit ein fortlaufend aktualisiertes, umfassendes Verzeichnis geschaffen.“ [@wikipedia]
 
 So sind nach DINI (Deutsch Initiative für Netzwerkinformation e.V) „Forschungsinformations-systeme ein aktuelles und wichtiges Thema für Hochschulen und Forschungseinrichtungen, die einem zunehmenden Bedarf an verlässlichen und verfügbaren Informationen über die eigenen Forschungsaktivitäten begegnen.“ [@Beucke et al.]
 
